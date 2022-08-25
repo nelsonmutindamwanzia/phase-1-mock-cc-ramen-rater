@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Raaah! Men",
+      "restaurant": "Truthy Restaurant",
+      "image": "https://st2.depositphotos.com/1354142/10257/i/450/depositphotos_102576904-stock-photo-japanese-ramen-noodles.jpg",
+      "rating": 0,
+      "comment": "Raaah Raaah men! Best in the market, Raaah Raaah men!",
+      "id": 6
     }
   ]
 }
